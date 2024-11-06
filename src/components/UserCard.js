@@ -19,7 +19,7 @@ function UserCard({ user, updateUser, deletePointsUser, deleteUser }) {
       <button onClick={() => updateUser(user.id, user.points)}>+</button>
       <button onClick={() => deletePointsUser(user.id, user.points)}>-</button>
       <button onClick={() => deleteUser(user.id)} className="deleteButton">
-        <FaTrashAlt /> Delete
+        <FaTrashAlt />
       </button>
     </div>
   );
