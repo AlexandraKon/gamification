@@ -99,7 +99,7 @@ function Cards() {
       {editModalOpen && (
         <div className="modalOverlay">
           <div className="modalContent">
-            <h2>Edit Card</h2>
+            <h2>Edit Post-it</h2>
             <input
               type="text"
               placeholder="Keyword"
@@ -112,7 +112,7 @@ function Cards() {
               value={newCard.author}
               onChange={(e) => setNewCard({ ...newCard, author: e.target.value })}
             />
-            <button onClick={updateCard}>Update Card</button>
+            <button onClick={updateCard}>Update Post-it</button>
             <button onClick={cancelEdit}>Cancel</button>
           </div>
         </div>

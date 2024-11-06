@@ -18,7 +18,7 @@ function UserCard({ user, updateUser, deletePointsUser, deleteUser }) {
       </div>
       <button onClick={() => updateUser(user.id, user.points)}>+</button>
       <button onClick={() => deletePointsUser(user.id, user.points)}>-</button>
-      <button onClick={() => deleteUser(user.id)} className="deleteButton">
+      <button onClick={() => deleteUser(user.id, user.name)} className="deleteButton">
         <FaTrashAlt />
       </button>
     </div>

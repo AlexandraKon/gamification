@@ -24,9 +24,9 @@ function App() {
       <div className={`App ${theme}`}>
         <nav className="navbar">
           <div className="nav-links">
-            <Link to="/" className="nav-link">Home</Link>
+            <Link to="/" className="nav-link">Sptint</Link>
             <Link to="/sonidos" className="nav-link">Sonidos</Link>
-            <Link to="/cards" className="nav-link">Cards</Link>
+            <Link to="/cards" className="nav-link">Post-its</Link>
           </div>
           <button className="btnToggleTheme" onClick={toggleTheme}>
             {theme === "light" ? <FaMoon /> : <FaSun />}

@@ -111,13 +111,35 @@ function Home() {
     setUsers(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
   };
 
-  const deleteUser = async (id) => {
-    const userDoc = doc(db, "users", id);
-    await deleteDoc(userDoc);
+  const deleteUser = async (id, userName) => {
+    // Confirmación con el nombre del usuario
+    const confirmDelete = window.confirm(`¿Está seguro de que desea eliminar a ${userName}?`);
     
-    const data = await getDocs(usersCollectionRef);
-    setUsers(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
-  };
+    if (confirmDelete) {
+        // Solicitar la contraseña
+        const password = prompt("Ingrese la contraseña para confirmar la eliminación:");
+
+        // Verificar la contraseña
+        if (password === "Salle23@") {
+            try {
+                // Proceder a eliminar el usuario si la contraseña es correcta
+                const userDoc = doc(db, "users", id);
+                await deleteDoc(userDoc);
+                
+                // Obtener los datos actualizados después de la eliminación
+                const data = await getDocs(usersCollectionRef);
+                setUsers(data.docs.map((doc) => ({ ...doc.data(), id: doc.id })));
+                alert("Usuario eliminado correctamente.");
+            } catch (error) {
+                console.error("Error eliminando el usuario:", error);
+                alert("Hubo un error al eliminar el usuario.");
+            }
+        } else {
+            alert("Contraseña incorrecta. No se eliminó el usuario.");
+        }
+    }
+};
+
 
   const closeSprint = async () => {
     const enteredPassword = prompt("Enter password for closing sprint:");
