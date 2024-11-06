@@ -182,7 +182,7 @@ button:disabled:hover {
 
 .card {
   width: 20em;
-  height: 250px;
+  height: 170px;
   background-color: #fff;
   margin: 8px;
   display: flex;
@@ -264,9 +264,9 @@ body.dark {
 }
 
 .card {
-  width: 250px;
-  padding: 20px;
-  border-radius: 10px;
+  width: 170px;
+  padding: 8px;
+  /* border-radius: 10px; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   position: relative;
   display: flex;
