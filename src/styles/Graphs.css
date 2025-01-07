@@ -1,0 +1,24 @@
+.year-header {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.toggle-icon {
+  font-size: 0.9em;
+  margin-left: 10px;
+}
+
+.year-content {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.chart-container {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}

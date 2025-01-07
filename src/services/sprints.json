@@ -1,0 +1,90 @@
+{
+  "2023": {
+    "February": {
+      "Seniors": { "Backlog": 148, "Trello": 61, "Total": 209 },
+      "Juniors": { "Backlog": 175, "Trello": 109, "Total": 284 }
+    },
+    "March": {
+      "Seniors": { "Backlog": 298, "Trello": 126, "Total": 424 },
+      "Juniors": { "Backlog": 172, "Trello": 58, "Total": 230 }
+    },
+    "April": {
+      "Seniors": { "Backlog": 315, "Trello": 15, "Total": 330 },
+      "Juniors": { "Backlog": 236, "Trello": 52, "Total": 288 }
+    },
+    "May": {
+      "Seniors": { "Backlog": 254, "Trello": 139, "Total": 393 },
+      "Juniors": { "Backlog": 765, "Trello": 41, "Total": 806 }
+    },
+    "June": {
+      "Seniors": { "Backlog": 239, "Trello": 104, "Total": 343 },
+      "Juniors": { "Backlog": 173, "Trello": 35, "Total": 208 }
+    },
+    "July": {
+      "Seniors": { "Backlog": 25, "Trello": 70, "Total": 95 },
+      "Juniors": { "Backlog": 128, "Trello": 15, "Total": 143 }
+    },
+    "September": {
+      "Seniors": { "Backlog": 288, "Trello": 95, "Total": 383 },
+      "Juniors": { "Backlog": 156, "Trello": 25, "Total": 181 }
+    },
+    "October": {
+      "Seniors": { "Backlog": 118, "Trello": 94, "Total": 212 },
+      "Juniors": { "Backlog": 203, "Trello": 57, "Total": 260 }
+    },
+    "November": {
+      "Seniors": { "Backlog": 396, "Trello": 99, "Total": 495 },
+      "Juniors": { "Backlog": 189, "Trello": 16, "Total": 205 }
+    },
+    "December": {
+      "Seniors": { "Backlog": 13, "Trello": 41, "Total": 54 },
+      "Juniors": { "Backlog": 108, "Trello": 5, "Total": 113 }
+    }
+  },
+  "2024": {
+    "January": {
+      "Seniors": { "Backlog": 178, "Trello": 111, "Total": 289 },
+      "Juniors": { "Backlog": 156, "Trello": 13, "Total": 169 }
+    },
+    "February": {
+      "Seniors": { "Backlog": 418, "Trello": 90, "Total": 508 },
+      "Juniors": { "Backlog": 70, "Trello": 21, "Total": 91 }
+    },
+    "March": {
+      "Seniors": { "Backlog": 459, "Trello": 83, "Total": 542 },
+      "Juniors": { "Backlog": 273, "Trello": 13, "Total": 286 }
+    },
+    "April": {
+      "Seniors": { "Backlog": 185, "Trello": 7, "Total": 192 },
+      "Juniors": { "Backlog": 154, "Trello": 7, "Total": 161 }
+    },
+    "May": {
+      "Seniors": { "Backlog": 276, "Trello": 46, "Total": 322 },
+      "Juniors": { "Backlog": 248, "Trello": 14, "Total": 262 }
+    },
+    "June": {
+      "Seniors": { "Backlog": 455, "Trello": 25, "Total": 480 },
+      "Juniors": { "Backlog": 357, "Trello": 6, "Total": 363 }
+    },
+    "July": {
+      "Seniors": { "Backlog": 136, "Trello": 19, "Total": 155 },
+      "Juniors": { "Backlog": 147, "Trello": 14, "Total": 161 }
+    },
+    "September": {
+      "Seniors": { "Backlog": 132, "Trello": 383, "Total": 515 },
+      "Juniors": { "Backlog": 270, "Trello": 258, "Total": 528 }
+    },
+    "October": {
+      "Aristócrates": { "Backlog": 282, "Trello": 780, "Total": 1062 },
+      "Eres una máquina, ¿no?": { "Backlog": 289, "Trello": 135, "Total": 424 }
+    },
+    "November": {
+      "Aristócrates": { "Backlog": 301, "Trello": 733, "Total": 1034 },
+      "Eres una máquina, ¿no?": { "Backlog": 727, "Trello": 68, "Total": 795 }
+    },
+    "December": {
+      "Aristócrates": { "Backlog": 147, "Trello": 363, "Total": 510 },
+      "Eres una máquina, ¿no?": { "Backlog": 646, "Trello": 31, "Total": 677 }
+    }
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "2023": {
+    "February": [
+      { "Name": "Angela", "Backlog": 85, "Trello": 51, "Total": 136 },
+      { "Name": "Alexandra", "Backlog": 87, "Trello": 9, "Total": 96 },
+      { "Name": "Lorelai", "Backlog": 45, "Trello": 7, "Total": 153 },
+      { "Name": "Laura B", "Backlog": 100, "Trello": 20, "Total": 120 },
+      { "Name": "Ayshat", "Backlog": 3, "Trello": 34, "Total": 37 },
+      { "Name": "Esther", "Backlog": 3, "Trello": 49, "Total": 52 }
+    ],
+    "March": [
+      { "Name": "Angela", "Backlog": 176, "Trello": 33, "Total": 209 },
+      { "Name": "Alexandra", "Backlog": 0, "Trello": 2, "Total": 2 },
+      { "Name": "Lorelai", "Backlog": 130, "Trello": 6, "Total": 136 },
+      { "Name": "Laura B", "Backlog": 80, "Trello": 41, "Total": 121 },
+      { "Name": "Ayshat", "Backlog": 42, "Trello": 52, "Total": 94 },
+      { "Name": "Esther", "Backlog": 42, "Trello": 21, "Total": 63 }
+    ],
+    "April": [
+      { "Name": "Angela", "Backlog": 80, "Trello": 15, "Total": 95 },
+      { "Name": "Alexandra", "Backlog": 83, "Trello": 0, "Total": 83 },
+      { "Name": "Lorelai", "Backlog": 55, "Trello": 2, "Total": 57 },
+      { "Name": "Laura B", "Backlog": 102, "Trello": 22, "Total": 124 },
+      { "Name": "Ayshat", "Backlog": 17, "Trello": 36, "Total": 53 },
+      { "Name": "Esther", "Backlog": 5, "Trello": 30, "Total": 35 },
+      { "Name": "Eric", "Backlog": 46, "Trello": 0, "Total": 46 },
+      { "Name": "Marina (x2)", "Backlog": 152, "Trello": 0, "Total": 152 }
+    ],
+    "May": [
+      { "Name": "Angela", "Backlog": 106, "Trello": 31, "Total": 137 },
+      { "Name": "Alexandra", "Backlog": 264, "Trello": 10, "Total": 274 },
+      { "Name": "Lorelai", "Backlog": 154, "Trello": 6, "Total": 160 },
+      { "Name": "Laura B", "Backlog": 81, "Trello": 23, "Total": 104 },
+      { "Name": "Ayshat", "Backlog": 15, "Trello": 73, "Total": 88 },
+      { "Name": "Esther", "Backlog": 4, "Trello": 37, "Total": 41 },
+      { "Name": "Eric", "Backlog": 67, "Trello": 0, "Total": 67 },
+      { "Name": "Marina (x2)", "Backlog": 328, "Trello": 0, "Total": 328 }
+    ],
+    "June": [
+      { "Name": "Angela", "Backlog": 95, "Trello": 35, "Total": 130 },
+      { "Name": "Alexandra", "Backlog": 55, "Trello": 0, "Total": 55 },
+      { "Name": "Lorelai", "Backlog": 162, "Trello": 0, "Total": 162 },
+      { "Name": "Laura B", "Backlog": 49, "Trello": 26, "Total": 75 },
+      { "Name": "Ayshat", "Backlog": 12, "Trello": 44, "Total": 56 },
+      { "Name": "Esther", "Backlog": 16, "Trello": 34, "Total": 50 },
+      { "Name": "Eric", "Backlog": 23, "Trello": 0, "Total": 23 }
+    ],
+    "July": [
+      { "Name": "Angela", "Backlog": 128, "Trello": 15, "Total": 143 },
+      { "Name": "Alexandra", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Lorelai", "Backlog": 20, "Trello": 1, "Total": 21 },
+      { "Name": "Laura B", "Backlog": 0, "Trello": 26, "Total": 26 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 27, "Total": 27 },
+      { "Name": "Esther", "Backlog": 5, "Trello": 16, "Total": 21 },
+      { "Name": "Eric", "Backlog": 0, "Trello": 0, "Total": 0 }
+    ],
+    "September": [
+      { "Name": "Angela", "Backlog": 108, "Trello": 25, "Total": 133 },
+      { "Name": "Alexandra", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Lorelai", "Backlog": 153, "Trello": 5, "Total": 158 },
+      { "Name": "Laura B", "Backlog": 69, "Trello": 16, "Total": 85 },
+      { "Name": "Ayshat", "Backlog": 43, "Trello": 59, "Total": 102 },
+      { "Name": "Esther", "Backlog": 23, "Trello": 15, "Total": 38 },
+      { "Name": "Eric", "Backlog": 48, "Trello": 0, "Total": 48 }
+    ],
+    "October": [
+      { "Name": "Angela", "Backlog": 85, "Trello": 27, "Total": 112 },
+      { "Name": "Marta + Lucía (x2)", "Backlog": 80, "Trello": 0, "Total": 80 },
+      { "Name": "Lorelai", "Backlog": 42, "Trello": 10, "Total": 52 },
+      { "Name": "Laura B", "Backlog": 57, "Trello": 17, "Total": 74 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 53, "Total": 53 },
+      { "Name": "Esther", "Backlog": 19, "Trello": 14, "Total": 33 },
+      { "Name": "Eric", "Backlog": 12, "Trello": 0, "Total": 12 },
+      { "Name": "Laura Ros (x2)", "Backlog": 26, "Trello": 30, "Total": 56 }
+    ],
+    "November": [
+      { "Name": "Angela", "Backlog": 77, "Trello": 16, "Total": 93 },
+      { "Name": "Marta + Lucía (x2)", "Backlog": 112, "Trello": 0, "Total": 112 },
+      { "Name": "Lorelai", "Backlog": 82, "Trello": 13, "Total": 95 },
+      { "Name": "Laura B", "Backlog": 144, "Trello": 22, "Total": 166 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 12, "Total": 12 },
+      { "Name": "Esther", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Laura Ros (x2)", "Backlog": 170, "Trello": 52, "Total": 222 }
+    ],
+    "December": [
+      { "Name": "Angela", "Backlog": 48, "Trello": 5, "Total": 53 },
+      { "Name": "Marta + Lucía (x2)", "Backlog": 60, "Trello": 0, "Total": 60 },
+      { "Name": "Lorelai", "Backlog": 13, "Trello": 0, "Total": 13 },
+      { "Name": "Laura B", "Backlog": 0, "Trello": 8, "Total": 8 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 25, "Total": 25 },
+      { "Name": "Esther", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Laura Ros (x2)", "Backlog": 0, "Trello": 8, "Total": 8 }
+    ]
+  },
+  "2024": {
+    "January": [
+      { "Name": "Angela", "Backlog": 57, "Trello": 12, "Total": 69 },
+      { "Name": "Marta + Lucía (x2)", "Backlog": 80, "Trello": 0, "Total": 80 },
+      { "Name": "Lorelai", "Backlog": 108, "Trello": 1, "Total": 109 },
+      { "Name": "Laura B", "Backlog": 22, "Trello": 18, "Total": 40 },
+      { "Name": "Ayshat", "Backlog": 10, "Trello": 76, "Total": 86 },
+      { "Name": "Esther", "Backlog": 10, "Trello": 0, "Total": 10 },
+      { "Name": "Laura Ros (x2)", "Backlog": 38, "Trello": 16, "Total": 54 },
+      { "Name": "Alexandra", "Backlog": 19, "Trello": 1, "Total": 20 }
+    ],
+    "February": [
+      { "Name": "Angela", "Backlog": 45, "Trello": 18, "Total": 63 },
+      { "Name": "Marta + Lucía (x2)", "Backlog": 25, "Trello": 0, "Total": 25 },
+      { "Name": "Lorelai", "Backlog": 19, "Trello": 4, "Total": 23 },
+      { "Name": "Laura B", "Backlog": 123, "Trello": 18, "Total": 141 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 38, "Total": 38 },
+      { "Name": "Esther", "Backlog": 8, "Trello": 0, "Total": 8 },
+      { "Name": "Laura Ros (x2)", "Backlog": 276, "Trello": 30, "Total": 306 },
+      { "Name": "Alexandra", "Backlog": 0, "Trello": 3, "Total": 3 }
+    ],
+    "March": [
+      { "Name": "Angela", "Backlog": 40, "Trello": 12, "Total": 52 },
+      { "Name": "Marta + Lucía (x2)", "Backlog": 178, "Trello": 0, "Total": 178 },
+      { "Name": "Lorelai", "Backlog": 124, "Trello": 2, "Total": 126 },
+      { "Name": "Laura B", "Backlog": 125, "Trello": 11, "Total": 136 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 56, "Total": 56 },
+      { "Name": "Esther", "Backlog": 8, "Trello": 0, "Total": 8 },
+      { "Name": "Laura Ros (x2)", "Backlog": 210, "Trello": 14, "Total": 224 },
+      { "Name": "Alexandra", "Backlog": 55, "Trello": 1, "Total": 56 }
+    ],
+    "April": [
+      { "Name": "Angela", "Backlog": 124, "Trello": 6, "Total": 130 },
+      { "Name": "Marta (x2)", "Backlog": 20, "Trello": 0, "Total": 20 },
+      { "Name": "Lorelai", "Backlog": 166, "Trello": 0, "Total": 166 },
+      { "Name": "Laura B", "Backlog": 0, "Trello": 7, "Total": 7 },
+      { "Name": "Ayshat", "Backlog": 19, "Trello": 0, "Total": 19 },
+      { "Name": "Esther", "Backlog": 3, "Trello": 0, "Total": 3 },
+      { "Name": "Laura Ros (x2)", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Alexandra", "Backlog": 10, "Trello": 1, "Total": 11 }
+    ],
+    "May": [
+      { "Name": "Angela", "Backlog": 191, "Trello": 8, "Total": 199 },
+      { "Name": "Marta (x2)", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Lorelai", "Backlog": 121, "Trello": 9, "Total": 130 },
+      { "Name": "Laura B", "Backlog": 45, "Trello": 15, "Total": 60 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Laura Ros (x2)", "Backlog": 110, "Trello": 22, "Total": 132 },
+      { "Name": "Alexandra", "Backlog": 57, "Trello": 6, "Total": 63 }
+    ],
+    "June": [
+      { "Name": "Angela", "Backlog": 185, "Trello": 5, "Total": 190 },
+      { "Name": "Lorelai", "Backlog": 220, "Trello": 12, "Total": 232 },
+      { "Name": "Laura B", "Backlog": 200, "Trello": 13, "Total": 213 },
+      { "Name": "Ayshat", "Backlog": 35, "Trello": 0, "Total": 35 },
+      { "Name": "Alexandra", "Backlog": 145, "Trello": 1, "Total": 146 },
+      { "Name": "Juan", "Backlog": 27, "Trello": 0, "Total": 27 }
+    ],
+    "July": [
+      { "Name": "Angela", "Backlog": 100, "Trello": 14, "Total": 114 },
+      { "Name": "Lorelai", "Backlog": 97, "Trello": 1, "Total": 98 },
+      { "Name": "Laura B", "Backlog": 36, "Trello": 18, "Total": 54 },
+      { "Name": "Ayshat", "Backlog": 3, "Trello": 0, "Total": 3 },
+      { "Name": "Alexandra", "Backlog": 47, "Trello": 0, "Total": 47 },
+      { "Name": "Juan", "Backlog": 0, "Trello": 0, "Total": 0 }
+    ],
+    "September": [
+      { "Name": "Angela", "Backlog": 184, "Trello": 142, "Total": 326 },
+      { "Name": "Lorelai", "Backlog": 89, "Trello": 10, "Total": 99 },
+      { "Name": "Laura B", "Backlog": 42, "Trello": 134, "Total": 176 },
+      { "Name": "Ayshat", "Backlog": 1, "Trello": 239, "Total": 240 },
+      { "Name": "Alexandra", "Backlog": 86, "Trello": 35, "Total": 121 },
+      { "Name": "Juan", "Backlog": 0, "Trello": 81, "Total": 81 }
+    ],
+    "October": [
+      { "Name": "Angela", "Backlog": 155, "Trello": 106, "Total": 261 },
+      { "Name": "Lorelai", "Backlog": 82, "Trello": 5, "Total": 87 },
+      { "Name": "Laura B", "Backlog": 73, "Trello": 166, "Total": 239 },
+      { "Name": "Ayshat", "Backlog": 20, "Trello": 440, "Total": 460 },
+      { "Name": "Alexandra", "Backlog": 152, "Trello": 8, "Total": 160 },
+      { "Name": "Juan", "Backlog": 34, "Trello": 68, "Total": 102 },
+      { "Name": "Laura Ros", "Backlog": 55, "Trello": 122, "Total": 177 }
+    ],
+    "November": [
+      { "Name": "Angela", "Backlog": 213, "Trello": 153, "Total": 366 },
+      { "Name": "Lorelai", "Backlog": 209, "Trello": 13, "Total": 222 },
+      { "Name": "Laura B", "Backlog": 33, "Trello": 108, "Total": 141 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 436, "Total": 436 },
+      { "Name": "Alexandra", "Backlog": 418, "Trello": 0, "Total": 418 },
+      { "Name": "Juan", "Backlog": 55, "Trello": 36, "Total": 91 },
+      { "Name": "Laura Ros", "Backlog": 100, "Trello": 55, "Total": 155 }
+    ],
+    "December": [
+      { "Name": "Angela", "Backlog": 95, "Trello": 166, "Total": 261 },
+      { "Name": "Lorelai", "Backlog": 143, "Trello": 21, "Total": 164 },
+      { "Name": "Laura B", "Backlog": 52, "Trello": 155, "Total": 207 },
+      { "Name": "Ayshat", "Backlog": 0, "Trello": 0, "Total": 0 },
+      { "Name": "Alexandra", "Backlog": 285, "Trello": 0, "Total": 285 },
+      { "Name": "Juan", "Backlog": 0, "Trello": 42, "Total": 42 },
+      { "Name": "Laura Ros", "Backlog": 218, "Trello": 10, "Total": 228 }
+    ]
+  }
+}
